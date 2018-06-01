@@ -49,9 +49,6 @@ then enter Y to replace all files to get the latest version.
 ## What is include
 * Data is stored in Firebase, which can be viewed through https://console.firebase.google.com/u/2/project/shopping-list-7c69f/database/shopping-list-7c69f/data
 
-Login:valeriemao17@gmail.com
-Password:sty33466db
-
 * Add, Delete feature are available
 * Edit is not working
 * image is not stored to database
